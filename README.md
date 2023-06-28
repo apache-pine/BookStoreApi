@@ -2,13 +2,14 @@
 
 A web API that runs Create, Read, Update, and Delete (CRUD) operations on a MongoDB NoSQL database.
 
-[Software Demo Video]()
+[Software Demo Video](https://youtu.be/WAMiKljxr6o)
 
 # Development Environment
 
 - Visual Studio
 - C#
 - MongoDB
+- ASP.NET Core
 
 # Useful Websites
 
@@ -21,3 +22,4 @@ A web API that runs Create, Read, Update, and Delete (CRUD) operations on a Mong
 # Future Work
 
 - Add more entries to the database
+- Update other CRUD operations
